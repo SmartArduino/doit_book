@@ -5,20 +5,20 @@
     - [Atom](installation.md)
     - [VS Code](vscode-installation.md)
 
-- Writing Markdown
-  - [Markdown Basics](markdown-basics.md)
-  - [Math Typesetting](math.md)
-  - [Diagrams](diagrams.md)
+- WiFi Modules
+  - [ESP8266](markdown-basics.md)
+  - [ESP8285](math.md)
+  - [ESP32](diagrams.md)
   - [TOC](toc.md)
   - [File Imports](file-imports.md)
   - [Code Chunk](code-chunk.md)
   - [Presentation](presentation.md)
   - [Pandoc](pandoc.md)
 
-- Document Export
+- Smart Product
   - [HTML](html.md)
-  - [Puppeteer](puppeteer.md)
-  - [PDF](pdf.md)
+  - [Smart Bulb](puppeteer.md)
+  - [Smart Plug](pdf.md)
   - [eBook](ebook.md)
   - [Prince (PDF)](prince.md)
   - Pandoc
@@ -30,14 +30,14 @@
     - [Bibliographies and Citations](pandoc-bibliographies-and-citations.md)
   - [Markdown (GFM)](markdown.md)
 
-- Customization & Extension
-  - [Customize CSS](customize-css.md)
-  - [Extend Markdown Parser](extend-parser.md)
-  - [Image Helper](image-helper.md)
-  - [For Developer](developer.md)
+- Development Board
+  - [NodeMCU](customize-css.md)
+  - [ESPduino](extend-parser.md)
+  - [ESP32](image-helper.md)
+  - [DT-06](developer.md)
 
-- Credits
-  - [Backers](backers.md)
+- Robotics
+  - [Tank chassis](backers.md)
   - [Thanks](thanks.md)
 - [Extra](extra.md)
 - [FAQ](faq.md)
