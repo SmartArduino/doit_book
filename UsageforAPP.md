@@ -1,5 +1,11 @@
 # Usage for APP: DoHome and HomeKit 
 
+* We will introduce the usage of APP for DoHome and HomeKit, respectively;
+* We will discuss the difference of DoHome and HomeKit;
+  * DoHome is developed by Shezhen DOIT LTD., while HomeKit is developed by APP inc.;
+  * DoHome can be used for Android and Iphone, while HomKit is only for Iphone;
+  * By using DoHome APP, one can many voice speakers, like google assistant, Alexa, Tmall, Xiaomi, and Baidu; while using HomeKit, just     use siri. 
+
 ## DoHome APP
 Right click at the preview, click `HTML` tab.  
 Then choose:
