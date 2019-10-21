@@ -1,6 +1,6 @@
-# HTML Export  
+# Usage for APP: DoHome and HomeKit 
 
-## Usage
+## DoHome APP
 Right click at the preview, click `HTML` tab.  
 Then choose:
 
