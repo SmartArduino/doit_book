@@ -1,4 +1,4 @@
-**Usage for DoHome APP**
+## Usage for DoHome APP
 
 **Step 1**: Please power on the plug and check that the indicator light is blinking slowly (1 time every second). Long press the button of smart plug for 5s and observe that the indicator light blinks quickly (10 times every second).
 
