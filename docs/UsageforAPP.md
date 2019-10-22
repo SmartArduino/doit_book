@@ -4,7 +4,7 @@
 * We will discuss the difference of DoHome and HomeKit;
   * DoHome is developed by Shezhen DOIT LTD., while HomeKit is developed by APP inc.;
   * DoHome can be used for Android and Iphone, while HomKit is only for Iphone;
-  * By using DoHome APP, one can many voice speakers, like google assistant, Alexa, Tmall, Xiaomi, and Baidu; while using HomeKit, just     use siri. 
+  * By using DoHome APP, one can many voice speakers, like google assistant, Alexa, Tmall, Xiaomi, and Baidu; while using HomeKit, just use siri. 
 
 ## DoHome APP
 
@@ -14,7 +14,8 @@
 
  Step 2: Use your phone to scan the following QR code and download DoHome APP.
 
-![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image002.jpg)![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image003.png)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image002.jpg)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image003.png)
 
  **Step 3:** Open DoHome APP, register an account using your name and password, and then login the DoHome APP.
 
@@ -38,7 +39,9 @@ Note: If you still have a doubt, please click the menu in the upper right corner
 
  
 
-![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image007.jpg)![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image009.jpg)![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image011.jpg)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image007.jpg)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image009.jpg)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image011.jpg)
 
  
 
@@ -58,7 +61,9 @@ Note: The phone and the smart plug must be connected in <font color=red>the same
 
  
 
-![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image007.jpg)![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image011.jpg)![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image015.jpg)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image007.jpg)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image011.jpg)
+![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image015.jpg)
 
 A3. Please open the menu in the upper left corner, click “Manager” and find your device. And then, choose it and click “Bind device”. 
 
