@@ -14,7 +14,7 @@
 
  Step 2: Use your phone to scan the following QR code and download DoHome APP.
 
-![clip_image002](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image002.jpg)
+![img](https://github.com/SmartArduino.github.io/blog/docsImage/blob/master/usageforAPP/clip_image002.jpg)
 ![img](https://github.com/SmartArduino/docsImage/blob/master/usageforAPP/clip_image003.png)
 
  **Step 3:** Open DoHome APP, register an account using your name and password, and then login the DoHome APP.
